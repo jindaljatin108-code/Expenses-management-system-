@@ -17,7 +17,7 @@ A web-based Expense Management System developed using HTML, CSS, PHP, and MySQL.
 - MySQL
 
 ## Live Demo
-https://expense-system.infinityfreeapp.com/index.php
+https://ems.infinityfree.me/
 
 ## Author
 Jatin Jindal
